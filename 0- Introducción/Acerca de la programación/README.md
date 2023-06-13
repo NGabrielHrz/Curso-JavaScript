@@ -1,0 +1,9 @@
+# Acerca de la progracmación
+La programación es el proceso de diseñar, codificar, depurar y mantener el código fuente de software utilizando lenguajes de programación. El propósito de la programación es crear programas que exhiban un comportamiento deseado. El proceso de escribir código requiere frecuentemente conocimientos en varias áreas distintas además de la programación en sí misma, como son el diseño de bases de datos, la interfaz gráfica de usuario y la optimización del rendimiento.
+
+Que no te engañen, La programación, en realidad, es difícil. Las reglas fundamentales son típicamente simples y claras, pero los programas construidos en base a estas reglas tienden a ser lo suficientemente complejas como para introducir sus propias reglas y complejidad. De alguna manera, estás construyendo tu propio laberinto, y es posible que te pierdas en él.
+
+Habran momentos en los que estar en este curso sera dificil o tedioso. Si eres nuevo en el mundo de la programación habra muchisimo material de donde aprender y escojer, pero depende de ti hacer el esfuerzo necesario. Cuando estés luchando para seguir el curso, no saltes a ninguna conclusión acerca de tus propias capacidades. Estas bien, no eres malo ni nada por el estilo, es parte del aprendizaje, aprender a programas es ir un paso a la vez, y entender que el mejor mentor es el fracaso. Asi que no pongas una cara de preocupación cuando te encuentres en un callejon sin salida, revisa el codigo y tarde o temprano, encontraras la solucion a ese muro (lo mas seguro es que sea un mazo para romperlo 🤭).
+
+## 📝Pequeña reflexión
+Hay una versión futura de ti que esta muy orgullo de lo fuerte que fuiste, y tambien hay una versión pasada de ti que esta tan orgulloso de lo lejos que has llegado, asi que sigue adelante, el simple hecho de que lo sigas intentadolo significa que eres mucho más fuerte de lo que eres.
