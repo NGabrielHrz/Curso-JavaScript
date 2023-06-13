@@ -17,5 +17,5 @@ De momento el curso contiente lo siguiente:
 ### 📚Indice
 </div>
 - [📖Curso de javascript](#📖curso-de-javascript)
-  - [0.- Indtroduccion] ()
+  - [0.- Indtroduccion] (https://github.com/NGabrielHrz/Curso-JavaScript/tree/main/0-%20Introducci%C3%B3n)
     - [Acerca de la programación](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main/0-%20Introducci%C3%B3n/Acerca%20de%20la%20programaci%C3%B3n)
