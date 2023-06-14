@@ -13,6 +13,7 @@ Ademas, ya que originalmente lo que es la programación es de la siguiente maner
 Lo cual digamos que no es muy legible para cualquiera, ya que este lenguaje es el que entiende la maquina, donde el `0` se puede interpretar como ausencia de electricidad y el `1` que si hay corriente electrica, velo de esta forma, es como apagar y prender un foco💡, cuando esta apagado es `0` y cuando esta encendido es `1`.
 
 Aun asi seguia siendo muy dificil de aprender este `"lenguaje de programcaión"` para la mayoria de las personas, es por eso que se desarrollan los que hoy llamamos `"Compiladores"`, que es basicamente un traductor, un intermediario entre el [lenguaje de maquina](https://es.wikipedia.org/wiki/Lenguaje_de_m%C3%A1quina) y el [lenguaje ensamblador](https://es.wikipedia.org/wiki/Lenguaje_ensamblador)(que fue de los primeros lenguajes de programación), eventualmente la tecnologia se fue desarrollando más y aparecio el concepto de `"abstracción"`, usado para referirse a los niveles de complegidad de un lenguaje, por ejemplo:
+## Diferentes ejemplos de `"Hola mundo"` en diferentes lenguajes de programación.
 ### Lenguaje de maquina: nivel de abstracción = null(nulo, 0)
 ```
 48 65 6c 6c 6f 20 6d 75 6e 64 6f 0a
