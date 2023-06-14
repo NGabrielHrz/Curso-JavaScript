@@ -24,3 +24,4 @@ Por el momento, el curso contiene lo siguiente:
 
 - [Introducción](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main/0-%20Introducción)
   - [Acerca de la programación](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main/0-%20Introducción/Acerca%20de%20la%20programación)
+  - [Porque el lenguaje importa?](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main/0-%20Introducci%C3%B3n/Porque%20el%20lenguaje%20importa)
