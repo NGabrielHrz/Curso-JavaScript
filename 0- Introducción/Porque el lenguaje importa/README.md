@@ -51,4 +51,4 @@ int main() {
 ```javascript
 console.log("Hola mundo");
 ```
-Aqui por acabamos de ver la legibilidad del código, que tan facil es leer el codigo segun su nivel de abstracción, donde si es más alto sera mas facil y si es más bajo sera más dificil.
+Aqui acabamos de ver la legibilidad del código, que tan facil es de leer el codigo segun su nivel de abstracción, donde si es más alto sera mas facil y si es más bajo sera más dificil.
