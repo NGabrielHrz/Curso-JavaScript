@@ -5,5 +5,7 @@ Que no te engañen, La programación, en realidad, es difícil. Las reglas funda
 
 Habran momentos en los que estar en este curso sera dificil o tedioso. Si eres nuevo en el mundo de la programación habra muchisimo material de donde aprender y escojer, pero depende de ti hacer el esfuerzo necesario. Cuando estés luchando para seguir el curso, no saltes a ninguna conclusión acerca de tus propias capacidades. Estas bien, no eres malo ni nada por el estilo, es parte del aprendizaje, aprender a programas es ir un paso a la vez, y entender que el mejor mentor es el fracaso. Asi que no pongas una cara de preocupación cuando te encuentres en un callejon sin salida, revisa el codigo y tarde o temprano, encontraras la solucion a ese muro (lo mas seguro es que sea un mazo para romperlo 🤭).
 
+Tambien hay que entender que la programación puede ser muchas cosas. Es una pieza de texto escrita por un programador, es la fuerza directriz que hace que la computadora haga lo que hace, son datos en la memoria de la computadora, y sin embargo controla las acciones realizadas en esta misma memoria.
+
 ## 📝Pequeña reflexión
 Hay una versión futura de ti que esta muy orgullo de lo fuerte que fuiste, y tambien hay una versión pasada de ti que esta tan orgulloso de lo lejos que has llegado, asi que sigue adelante, el simple hecho de que lo sigas intentadolo significa que eres mucho más fuerte de lo que eres.
