@@ -1,10 +1,10 @@
 # 📖 Curso de JavaScript
 
-## 🤔 ¿Qué es JavaScript? ![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+## 🤔 ¿Qué es ![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)?
 
 JavaScript es un lenguaje de programación que permite implementar funciones complejas en páginas web. Cada vez que una página web hace algo más que mostrar información estática, como actualizaciones de contenido, mapas interactivos, animaciones 2D/3D, reproducción de videos, etc., es probable que JavaScript esté involucrado.
 
-## 🤷‍♂️ ¿Por qué es bueno estudiar JavaScript? ![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+## 🤷‍♂️ ¿Por qué es bueno estudiar ![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)?
 
 Hay muchas razones para aprender JavaScript. Una de las principales ventajas es que la mayoría de las aplicaciones web funcionan con este lenguaje, debido a que los navegadores permiten la interacción entre aplicaciones.
 
@@ -25,3 +25,5 @@ Por el momento, el curso contiene lo siguiente:
 - [Introducción](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main/0-%20Introducción)
   - [Acerca de la programación](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main/0-%20Introducción/Acerca%20de%20la%20programación)
   - [Porque el lenguaje importa?](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main/0-%20Introducci%C3%B3n/Porque%20el%20lenguaje%20importa)
+  - [Que es JavaScript](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main/)
+  - [Código y que hace con el...](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main)
