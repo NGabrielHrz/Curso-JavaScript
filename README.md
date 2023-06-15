@@ -25,5 +25,5 @@ Por el momento, el curso contiene lo siguiente:
 - [Introducción](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main/0-%20Introducción)
   - [Acerca de la programación](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main/0-%20Introducción/Acerca%20de%20la%20programación)
   - [Porque el lenguaje importa?](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main/0-%20Introducci%C3%B3n/Porque%20el%20lenguaje%20importa)
-  - [Que es JavaScript](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main/)
-  - [Código y que hace con el...](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main)
+  - [Que es JavaScript](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main/0-%20Introducci%C3%B3n/Que%20es%20JavaScript)
+  - [Código y que hace con el...](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main/0-%20Introducci%C3%B3n/Codigo%20y%20que%20hacer%20con%20el)
