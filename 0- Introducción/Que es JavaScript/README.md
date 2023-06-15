@@ -5,9 +5,9 @@ Fue introducido al mercado en 1995 como una forma de agregar programas a las pag
 ## 🤷‍♂️ Java y JavaScript son lo mismo?
 No, **JavaScript no es lo mismo que Java**, es algo a tener en cuenta, el nombre de de JavaScript fue considerado puro marketing en lugar de un buen juicio. Sucede que para 1995 Java estaba tomando gran popularidad y a alguien se le cocurrio que seria buena idea aprobecharse del exito y popularidad que estaba teniendo Java y ahora estamos atrapados con el nombre jaja🤣.
 ## 🙃 Pequeños incombenientes
-Normalmente, la mayoria de las persona que ya tienen experiencia en otro lenguaje de programación compienza despreciando y diciendo cosas terribles de JavaScript y... no es para menos la verdad, yo por ejemplo inicie en este mundo de la programación con el lenguaje de ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) y al verdad cuando inicie un nuevo proyecto de JavaScript no esperaba que el codigo para crear un hola mundo fuera tan corto:
+Normalmente, la mayoria de las persona que ya tienen experiencia en otro lenguaje de programación compienza despreciando y diciendo cosas terribles de JavaScript y... no es para menos la verdad, yo por ejemplo inicie en este mundo de la programación con el lenguaje de ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) y al verdad cuando inicie un nuevo proyecto de JavaScript no esperaba que el codigo para crear un `Hola mundo` fuera tan corto:
 ```JavaScript
-consola.log("Hola mundo");
+console.log("Hola mundo");
 ```
 Me recordo mucho a lo que vi una vez en Python:
 ```python
