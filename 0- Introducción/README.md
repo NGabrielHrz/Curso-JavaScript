@@ -1,2 +1,2 @@
-# Introducción
-En este apartado conoceremos los conceptos basicos acerca de la programación, se llegaran a ver algunos ejemplos de codigo con su respectiva explicación, pero no habra mucho, personalmente considero que deberias darle una pequeña ojeada y si no quieres pues no pasa nada.
+# 📚 Introducción
+En este apartado conoceremos los conceptos basicos acerca de la programación, se llegaran a ver algunos ejemplos de codigo con su respectiva explicación, pero no habra mucho, personalmente considero que deberias darle una pequeña ojeada y si no quieres pues no pasa nada. A fin de cuentas, lo que hay en este espacio esta hecho principalmetne para aquellos que no tienen absolutamente ninguna experiencia en la programación.
