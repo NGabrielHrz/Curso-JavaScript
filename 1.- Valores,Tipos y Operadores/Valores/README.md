@@ -6,8 +6,8 @@ Ahora veremos lo que son los valores, para ello, hay que tener en cuenta que las
 ## 👷 Trabajar con valores.
 Para que podamos trabajar con una gran cantidad de *`bits`* sin perdernos nesicitamos separarlos en **bloques** que representen ***Pedazos*** de infromación. Y en ![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white), estos **bloques** los llamamos ***`Valores`***. Cada valor que determian su "**rol**", estos roles pueden ser:
 
-| Tipo de valores | Descripción |
-|:--------------:|:-------------:S|
+| Tipos de valores | Descripción |
+|--------------|-------------|
 | Números      | Representan valores numéricos (enteros o de punto flotante). |
 | Cadenas de texto   | Representan una secuencia de caracteres. |
 | Booleanos    | Representan valores de verdad (`true` o `false`). |
@@ -16,7 +16,7 @@ Para que podamos trabajar con una gran cantidad de *`bits`* sin perdernos nesici
 | Null         | Representa la ausencia intencional de valor. |
 | Undefined    | Representa una variable declarada pero sin valor asignado. |
 | Funciones    | Pueden asignarse a variables, pasarse como argumentos y devolverse como valores de otras funciones. |
-> Cabe recalcar que estos son generales y no son todos los que puede llegar a tener JavaScript.
+> Cabe recalcar que estos tipos de valores son generales y no son todos los que puede llegar a tener JavaScript.
 
 Para poder crear un *valor* solo debemos invocar su nombre, y como se puede apreciar en la tabla, hay de diferentes tipos, un ejmplo que podemos utilizar es uno ya visto anteriormente:
 ```Javascript
