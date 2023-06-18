@@ -36,7 +36,7 @@ suma(13,1) //Manda a llamar a la función, y toma los parametros que le proporci
 ### Divición
 ```Javascript
 function suma(num1,num2) { // La función tomara los argumentos que les proporciones al llamar a la función
-  console.log(num1/num2); // Imprime la suma de num1 y num2
+  console.log(num1/num2); // Imprime la divición de num1 y num2
 }
 
 suma(13,1) //Manda a llamar a la función, y toma los parametros que le proporcionamos.
