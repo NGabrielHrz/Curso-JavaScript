@@ -29,3 +29,4 @@ Por el momento, el curso contiene lo siguiente:
   - [Código y que hace con el...](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main/0-%20Introducci%C3%B3n/Codigo%20y%20que%20hacer%20con%20el)
 - [Valores, Tipos y Operadores](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main/1.-%20Valores%2CTipos%20y%20Operadores)
   - [Valores](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main/1.-%20Valores%2CTipos%20y%20Operadores/Valores)
+  - [Números](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main/1.-%20Valores%2CTipos%20y%20Operadores/N%C3%BAmeros)
