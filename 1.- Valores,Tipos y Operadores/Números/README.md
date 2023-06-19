@@ -64,12 +64,12 @@ De momento, esto es todo lo que hay que explicar de los números, como declararl
 ## ➕ Un pequeño PLUS-ULTRA
 Aqui te dejo un ejemplo para poder calcualar el area de un circulo:
 ```javascript
-const PI = 3.1415926;
+const PI = 3.1415926; // Declaración de la constante Pi
 
-function AreaCirculo(r) {
-  console.log(PI * Math.pow(r, 2));
+function AreaCirculo(r) { // Creación de la función AreaCirculo que toma como argumento r, que es el radio 
+  console.log(PI * Math.pow(r, 2)); // Imprime en pantalla la clasica operación para obtener el area de un circulo: PI*(r^2)
 }
 
-AreaCirculo(5);
+AreaCirculo(5); // Llamada a la función AreaCirculo con el parametro 5 como "radio" del circulo
 ```
 Diviertete con el😁.
