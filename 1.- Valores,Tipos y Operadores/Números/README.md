@@ -7,6 +7,24 @@ Así, ya si quieres usarlo para una suma por ejemplo, quedaria algo así:
 ```javascript
 12+1
 ```
+Si quieres ponerlos por separado en variables, o constantes, puedes ponerlos así:
+```javascript
+const num1 = 12
+let num2 = 1
+num1 + num2 //sera igual a 13
+```
+Y aunque en JavaScript no es necesario explicar los identificadores es bueno saber que la declaración de los números se divide en dos tipos principalmente, siendo estos los:
+### Enteros (int, integer)
+```csharp
+int num1 = 0;
+Integer num2 = 10;
+```
+Y
+### Decimales/De punto flotante (float, double)
+```csharp
+float num1 = 0.9
+double = 9.99999
+```
 Si lo que quieres es introducir tú tus propios valores pues hay que ponerle más producción, y una *funcion*, algo así:
 ### Suma
 ```Javascript
