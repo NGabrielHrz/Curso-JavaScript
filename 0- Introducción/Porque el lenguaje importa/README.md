@@ -48,7 +48,7 @@ int main() {
 }
 ```
 ### Lenguaje JavaScript: nivel de abstracción = high(alto, 3)
-```javascript
+```JavaScript
 console.log("Hola mundo");
 ```
 Aqui acabamos de ver la legibilidad del código, que tan facil es de leer el codigo segun su nivel de abstracción, donde si es más alto sera mas facil y si es más bajo sera más dificil.
