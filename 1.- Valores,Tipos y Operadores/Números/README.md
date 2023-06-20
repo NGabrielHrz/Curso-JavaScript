@@ -7,6 +7,24 @@ Así, ya si quieres usarlo para una suma por ejemplo, quedaria algo así:
 ```javascript
 12+1
 ```
+Si quieres ponerlos por separado en variables, o constantes, puedes ponerlos así:
+```javascript
+const num1 = 12
+let num2 = 1
+num1 + num2 //sera igual a 13
+```
+Y aunque en JavaScript no es necesario explicar los identificadores es bueno saber que la declaración de los números se divide en dos tipos principalmente, siendo estos los:
+### Enteros (int, integer)
+```csharp
+int num1 = 0;
+Integer num2 = 10;
+```
+Y
+### Decimales/De punto flotante (float, double)
+```csharp
+float num1 = 0.9
+double = 9.99999
+```
 Si lo que quieres es introducir tú tus propios valores pues hay que ponerle más producción, y una *funcion*, algo así:
 ### Suma
 ```Javascript
@@ -46,12 +64,12 @@ De momento, esto es todo lo que hay que explicar de los números, como declararl
 ## ➕ Un pequeño PLUS-ULTRA
 Aqui te dejo un ejemplo para poder calcualar el area de un circulo:
 ```javascript
-const PI = 3.1415926;
+const PI = 3.1415926; // Declaración de la constante Pi
 
-function AreaCirculo(r) {
-  console.log(PI * Math.pow(r, 2));
+function AreaCirculo(r) { // Creación de la función AreaCirculo que toma como argumento r, que es el radio 
+  console.log(PI * Math.pow(r, 2)); // Imprime en pantalla la clasica operación para obtener el area de un circulo: PI*(r^2)
 }
 
-AreaCirculo(5);
+AreaCirculo(5); // Llamada a la función AreaCirculo con el parametro 5 como "radio" del circulo
 ```
 Diviertete con el😁.
