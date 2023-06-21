@@ -31,3 +31,4 @@ Por el momento, el curso contiene lo siguiente:
   - [Valores](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main/1.-%20Valores%2CTipos%20y%20Operadores/Valores)
   - [Números](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main/1.-%20Valores%2CTipos%20y%20Operadores/N%C3%BAmeros)
   - [Strings](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main/1.-%20Valores%2CTipos%20y%20Operadores/Strings)
+  - [Operadores unarios](https://github.com/NGabrielHrz/Curso-JavaScript/tree/main/1.-%20Valores%2CTipos%20y%20Operadores/Operadores%20Unarios)
