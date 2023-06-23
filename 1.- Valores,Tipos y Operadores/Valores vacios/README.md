@@ -32,4 +32,4 @@ En JavaScript, undefined significa que una variable ha sido declarada pero no se
 
 
 
-[^1] [Diferencia entre null y undefiend](https://es.stackoverflow.com/questions/119964/diferencia-entre-undefined-y-null-en-javascript)
+[^1]: [Diferencia entre null y undefiend](https://es.stackoverflow.com/questions/119964/diferencia-entre-undefined-y-null-en-javascript)
