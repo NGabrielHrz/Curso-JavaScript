@@ -33,3 +33,4 @@ Por el momento, el curso contiene lo siguiente:
   - [Strings](1.-%20Valores%2CTipos%20y%20Operadores/Strings/)
   - [Operadores unarios](1.-%20Valores%2CTipos%20y%20Operadores/Operadores%20Unarios/)
   - [Valores Booleanos](1.-%20Valores%2CTipos%20y%20Operadores/Valores%20booleanos/)
+  - [Valores vacios](1.-%20Valores%2CTipos%20y%20Operadores/Valores%20vacios/)
