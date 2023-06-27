@@ -10,8 +10,9 @@ Por ejemplo, podemos expresar el numero 13 en *`bits`*. Funciona de la misma man
 
 Aquí tenemos los *`bits`* que conforman el número 13, con el peso de cada dígito
 mostrado debajo de el:
-```
-    0   0   0   0  1  1  0  1
-  128  64  32  16  8  4  2  1
-```
+
+   | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 1 |
+   |---|---|---|---|---|---|---|---|
+   |128|64 | 32 | 16| 8 | 4 | 2 | 1 |
+
 Entonces este es el número *binario*: `00001101`, o 8+4+1, o 13.
