@@ -35,3 +35,4 @@ Por el momento, el curso contiene lo siguiente:
   - [Valores Booleanos](1.-%20Valores%2CTipos%20y%20Operadores/Valores%20booleanos/README.md)
   - [Valores vacios](1.-%20Valores%2CTipos%20y%20Operadores/Valores%20vacios/README.md)
   - [Converción de tipo automática](1.-%20Valores%2CTipos%20y%20Operadores/Converci%C3%B3n%20de%20tipo%20automatica/README.md)
+- [Estructura de programa](2.-%20Estrutura%20de%20programa/README.md)
