@@ -1,0 +1,6 @@
+# ✖️ Expreciones y declaraciones
+Ya anteriormene hemos creamos valores y les aplicamos operadores a ellos para obtener nuevos valores. Crear valores de esta manera es la sustancia principal de cualquier programa en JavaScript. Pero esa sustancia tiene que enmarcarse en una estructura más grande para poder ser útil. Así que eso es lo que veremos a continuación.
+
+Una **_expreción_** es un fragmento de código que produce algún valor. Cada valor que se escribe literalmente, como por ejemplo, 22 o "psicoanálisis", es una **_expreción_**. Una expresión[^1] entre paréntesis también es una expresión, como lo es un operador binario aplicado a dos expresiones o un operador unario aplicado a una sola.
+
+[^1]: En matemáticas, una expresión matemática es una combinación de símbolos que se pueden combinar con operaciones matemáticas como la suma, la resta, la multiplicación y la división. Los símbolos pueden representar números, variables, funciones, corchetes y puntuación. Una expresión matemática puede ser un objeto matemático o una fórmula que hace una afirmación sobre objetos matemáticos.
