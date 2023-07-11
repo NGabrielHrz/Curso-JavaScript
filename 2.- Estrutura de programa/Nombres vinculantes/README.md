@@ -1,0 +1,9 @@
+# ⛓️ Nombres vinculantes
+En javascript los nombres de las vinculaciones deben de seguir ciertas reglas:
+
+1. **No debe de empezar con un número**: Esta es sin dudas la que primero hay que enseñar, ya que casi todos, aun que estoy seguro de que todos, los lenguajes de programación estan diseñados con esta pirmera regla para nombrar vinculaciones.
+2. **No debe de empezar con algun simbolo**: La razon de esta es un poco mas sensilla, es por que en muchos lenguajes caracteres como `$`, `_`, `?`, ect, estan reservados por el porpio lenguaje[^1] y no se pueden usar si no es dentro de una `""` o `''`, u otras exepciones de cada lenguaje.
+3. **De preferencia usar el formato javScript** (en caso de javascript): El formato es muy sensillo, al nombrar una vinculacion el primer caracter debe de ser minuscula, al no permitir `_` para la separación de palabras, de la segunda palabra en adelante, cada *"primer"* caracter debe de ser en mayusculas, y por ultimo nombrar las vinculaciones en ingles, un ejemplo pueden ser `userName`, `lastName`, `password1`, etc.
+
+
+[^1]: Aparte de los simbolor existen cierto grupos de palabras que tampoco pueden ser usadas, se les conoce como palabras reservadas, algunas de estas son: `break`, `case`, `catch`, `class`, `const`, `continue`, `debugger`, `default`, `delete`, `do`, `else`, `enum`, `export`, `extends`, `false`, `finally`, `for`, `function`, `if`, `implements`, `import`, `interface`, `in`, `instanceof`, `let`, `new`, `package`, `private`, `protected`, `public`, `return`, `static`, `super`, `switch`, `this`, `throw`, `true`, `try`, `typeof`, `var`, `void`, `while`, `with`, `yield`, pero no te preocupes, no es necesario que te las aprendas todas de memoria 🫠😁.
