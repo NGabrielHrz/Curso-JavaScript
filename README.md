@@ -38,3 +38,4 @@ Por el momento, el curso contiene lo siguiente:
 - [Estructura de programa](2.-%20Estrutura%20de%20programa/README.md)
   - [Expreciones y declaraciones](2.-%20Estrutura%20de%20programa/Expreciones%20y%20declaraciones/README.md)
   - [Vinculaciones](2.-%20Estrutura%20de%20programa/Vinculaciones/README.md)
+  - [Nombres vinculantes](2.-%20Estrutura%20de%20programa/Nombres%20vinculantes/README.md)
