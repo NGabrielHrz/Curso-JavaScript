@@ -40,3 +40,4 @@ Por el momento, el curso contiene lo siguiente:
   - [Vinculaciones](2.-%20Estrutura%20de%20programa/Vinculaciones/README.md)
   - [Nombres vinculantes](2.-%20Estrutura%20de%20programa/Nombres%20vinculantes/README.md)
   - [El entorno](2.-%20Estrutura%20de%20programa/El%20entorno/README.md)
+  - [Funciones](2.-%20Estrutura%20de%20programa/Funciones/README.md)
