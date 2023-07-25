@@ -8,7 +8,8 @@ prompt("Introducir contraseña");
 
 Dando como resultado el siguiente cuadro de dialgo:
 
-![promp]()
+![Promp](https://github.com/NGabrielHrz/Curso-JavaScript/assets/91218988/e8d2bafe-9db8-4f2a-9342-a7ced631dbdf)
+
 
 Y tal y como se explico antes, estas funciones ya vienen con el entorno, por lo que solo es necesario llamarlas. Ejecutar una función tambien se conoce como *invocarla*, *llamarla*, o *aplicarla*.
 
