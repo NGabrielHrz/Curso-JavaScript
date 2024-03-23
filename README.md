@@ -41,3 +41,4 @@ Por el momento, el curso contiene lo siguiente:
   - [Nombres vinculantes](2.-%20Estrutura%20de%20programa/Nombres%20vinculantes/README.md)
   - [El entorno](2.-%20Estrutura%20de%20programa/El%20entorno/README.md)
   - [Funciones](2.-%20Estrutura%20de%20programa/Funciones/README.md)
+  - [La función console.log](2.-%20Estrutura%20de%20programa/Console.log/README.md)
