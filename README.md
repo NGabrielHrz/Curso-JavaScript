@@ -42,3 +42,4 @@ Por el momento, el curso contiene lo siguiente:
   - [El entorno](2.-%20Estrutura%20de%20programa/El%20entorno/README.md)
   - [Funciones](2.-%20Estrutura%20de%20programa/Funciones/README.md)
   - [La función console.log](2.-%20Estrutura%20de%20programa/Console.log/README.md)
+  - [Valores de retorno](2.-%20Estrutura%20de%20programa/Valores%20de%20retorno/README.md)
