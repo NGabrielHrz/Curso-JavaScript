@@ -8,4 +8,7 @@ Es necesario tener en cuenta que, en el caso de los navegadores, todos tienen la
 - La segunda forma es acceder al _menú_ desplegable de la pagina, este se abre con **Clic izquierdo** y luego en **Inspeccionar**, para poder acceder a las opciones de desarrollador.
 
 > [!note]
-> Por lo general las opcciones de desarrollador llevan por nombre _"**DevTools**"_
+> Por lo general las opcciones de desarrollador llevan por nombre _"**DevTools**"_.
+
+Cabe recalcar que en MacOS existen otras maneras de poder acceder a las herramientas de desarrollador.
+
